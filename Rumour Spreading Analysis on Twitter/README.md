@@ -1,6 +1,6 @@
 # COURSE PROJECT Rumour Spreading Analysis on Twitter
-
-          Big data on social media is a valuable resource only if we know how to analyze it
+       
+  Big data on social media is a valuable resource only if we know how to analyze it
 effectively and with the right tools. In this project, you will learn how social media data (on
 Twitter) can be analyzed with guided steps and select data-intensive tools w.r.t the nature of the
 given problem. The provided data is a set of rumour tweets about eight different topics (breaking
